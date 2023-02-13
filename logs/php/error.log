@@ -1,0 +1,6 @@
+[13-Feb-2023 18:23:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/reeserhome/Local Sites/unidev/app/public/experiment.php on line 2
+[13-Feb-2023 18:29:29 UTC] PHP Warning:  Undefined variable $myname in /Users/reeserhome/Local Sites/unidev/app/public/experiment.php on line 2
+[13-Feb-2023 18:29:29 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - string in /Users/reeserhome/Local Sites/unidev/app/public/experiment.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/reeserhome/Local Sites/unidev/app/public/experiment.php on line 2
